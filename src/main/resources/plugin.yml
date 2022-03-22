@@ -1,0 +1,6 @@
+name: Graves
+version: '${project.version}'
+main: com.benjamin.graves.Graves
+api-version: 1.18
+authors: [ Benjamin ]
+description: A chest with all the player's items appears at the place of death and disappears after a certain time.
